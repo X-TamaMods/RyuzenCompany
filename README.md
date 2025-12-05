@@ -1,2 +1,0 @@
-# RyuzenCompany
-Ryuzen DataBase
